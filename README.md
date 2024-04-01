@@ -1,5 +1,4 @@
 ## 💻 REST API SDK for PHP  (V0.5.0)
-==============================
 
 	PayPal's PHP SDK for the RESTful APIs
 
