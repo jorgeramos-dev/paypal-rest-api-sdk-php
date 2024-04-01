@@ -3,7 +3,7 @@
 	PayPal's PHP SDK for the RESTful APIs
 
 
-Prerequisites
+Pre-requisites
 -------------
 
    * PHP 5.3 or above
